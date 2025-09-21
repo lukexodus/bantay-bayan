@@ -1,11 +1,11 @@
+# RISE
 
-  # RISE
+## Note
 
-  This is a code bundle for RISE. The original project is available at https://www.figma.com/design/a3JAGLLjnEEwTCSw7M9fKg/BantayBayan.
+Moved to https://github.com/lukexodus/rise.
 
-  ## Running the code
+## Running the code
 
-  Run `npm i` to install the dependencies.
+Run `npm i` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
